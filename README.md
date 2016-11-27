@@ -5,7 +5,8 @@ Sponsored by: [Reflective Data ![N|Solid](https://reflectivedata.com/wp-content/
 A super simple tool which lets you turn your Google Spreadsheets into JSON format.
 
   - Publish your spreadsheet and get an URL for CSV
-  - go to yourhost.com/spreadsheet-json?url=the_url_you_got_from_spreadsheets
+  - Host the script from index.php
+  - Go to yourhost.com/spreadsheet-json?url=the_url_you_got_from_spreadsheets
   - Magic
 
 ### Demo
